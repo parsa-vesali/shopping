@@ -280,6 +280,8 @@
 
 .footer__information {
   line-height: 1.3rem;
+  font-size: .6rem;
+  font-weight: bold;
 }
 .footer__link {
   color: var(--text-color);
@@ -307,7 +309,7 @@
 
 .footer__social {
   display: flex;
-  column-gap: 0.5rem;
+  column-gap: 0.2rem;
 }
 .footer__social-link {
   display: inline-flex;
@@ -437,8 +439,8 @@
 /* BREAKPOINTS */
 @media screen and (max-width: 340px) {
   .container {
-    margin-left: 1rem;
     margin-right: 1rem;
+    margin-left: 1rem;
   }
 
   .footer__content {
