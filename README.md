@@ -3,7 +3,7 @@ a clothing store 👔
 <br>
 my first project on github ✌👀
 
-## 💻 adress :
+## 💻 address :
 
 [shopping link](http://parsa-vesali.github.io/shopping)
 
