@@ -20,4 +20,4 @@ my first project on github ✌👀
 
 ## 💻 preview :
 
-![shopping link](http://C:\Users\Alvand_co\Pictures)
+![shopping link](https://github.com/parsa-vesali/shopping/blob/main/site-1.PNG)
